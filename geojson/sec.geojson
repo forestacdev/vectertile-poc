@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sec",
+"features": [
+{ "type": "Feature", "properties": { "MAJOR_CODE": 93, "MINOR_CODE": 0, "DESCRIPTIO": "A-B", "LEGEND01": "地質断面線の位置", "LEGEND01E": "Geologic cross section line" }, "geometry": { "type": "LineString", "coordinates": [ [ 136.980440133017396, 35.669819611255178 ], [ 136.980265468272023, 35.620503626515003 ], [ 136.980347920914397, 35.503212926280312 ] ] } },
+{ "type": "Feature", "properties": { "MAJOR_CODE": 93, "MINOR_CODE": 0, "DESCRIPTIO": "C-D", "LEGEND01": "地質断面線の位置", "LEGEND01E": "Geologic cross section line" }, "geometry": { "type": "LineString", "coordinates": [ [ 136.759016408723795, 35.669825656752444 ], [ 136.996987858952764, 35.616773159256965 ] ] } }
+]
+}
