@@ -1,4 +1,4 @@
-# vectertile-poc
+# vector-tile-poc
 
 データ出典「産総研」
 
